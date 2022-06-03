@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @nutthawutkongsopa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-nutthawutkongsopa/nutthawutkongsopa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Nutthawut Kongsopa 👋
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, C#, C++, SQL, GO, Typescript
+
