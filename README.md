@@ -1,5 +1,5 @@
 
-# Hi, I'm Nutthawut Kongsopa 👋
+# Hi, My name is Nutthawut Kongsopa 👋
 
 
 ## 🚀 About Me
