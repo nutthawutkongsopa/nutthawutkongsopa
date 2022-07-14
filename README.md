@@ -3,12 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer. <br/>
-Expert in c# language.<br/>
-Learning GO
+🖥️I'm a full stack developer. <br/>
+🏅Expert in c# language.<br/>
+⏳Learning GO
 
 ## 👨🏻‍🎓 Education
-Bachelor of Science (Information and Communication Technology)
+🏅Bachelor of Science (Information and Communication Technology)
 
 ## 🛠 Skills
 
