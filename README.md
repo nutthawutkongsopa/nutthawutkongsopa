@@ -4,7 +4,8 @@
 
 ## 🚀 About Me
 I'm a full stack developer. <br/>
-I'm expert in c# language and now interest GO.
+Expert in c# language.<br/>
+Learning GO
 
 ## 👨🏻‍🎓 Education
 Bachelor of Science (Information and Communication Technology)
