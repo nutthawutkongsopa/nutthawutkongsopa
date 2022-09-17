@@ -3,8 +3,8 @@
 
 
 ## 🚀 About Me
-🖥️ I'm a full stack developer. <br/>
-🏅 Expert in c# language.<br/>
+🖥️ I'm a Full Stack developer. <br/>
+🏅 Expert in C# Language.<br/>
 ⏳ Learning GO
 
 ## 👨🏻‍🎓 Education
